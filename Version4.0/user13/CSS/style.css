@@ -19,3 +19,143 @@ th {
 	color: #ffffff;
 	background-color: #003366;
 }
+
+.button {
+
+	background-color: #4CAF50;
+
+	border: none;
+
+	color: royalblue;
+
+	padding: 20px;
+
+	text-align: center;
+
+	text-decoration: overline;
+	
+	display: inline-block;
+
+	font-size: 16px;
+
+	margin: 4px 2px;
+
+	cursor: pointer;
+
+}
+
+
+
+.button1 {
+
+	border-radius: 8px;
+
+}
+
+
+
+.button2 {
+
+	border-radius: 30%;
+
+}
+
+
+
+.red {
+
+	background-color: #ff0000;
+
+}
+
+
+
+td{
+
+	padding:20px;
+
+}
+
+
+
+table{
+
+	margin-left: auto;
+
+	margin-right: auto;
+
+}
+
+
+
+h1, h2, h3, h4, h5, h6{
+
+	text-align:center;
+
+}
+<a href="#" class="myButton">Help</a>
+
+.myButton {
+	box-shadow: 6px 4px 7px 1px #1c1b18;
+	background:linear-gradient(to bottom, #eae0c2 5%, #ccc2a6 100%);
+	background-color:#eae0c2;
+	border-radius:9px;
+	border:5px solid #333029;
+	display:inline-block;
+	cursor:pointer;
+	color:#505739;
+	font-family:Times New Roman;
+	font-size:22px;
+	font-weight:bold;
+	padding:5px 17px;
+	text-decoration:none;
+	text-shadow:2px 1px 2px #ffffff;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #ccc2a6 5%, #eae0c2 100%);
+	background-color:#ccc2a6;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+<a href="#" class="goat">Clams</a>
+
+.goat {
+	background:linear-gradient(to bottom, #2dabf9 5%, #0859fa 100%);
+	background-color:#2dabf9;
+	border-radius:7px;
+	border:2px solid #c20e50;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Impact;
+	font-size:20px;
+	padding:8px 24px;
+	text-decoration:none;
+	text-shadow:3px 2px 0px #212e70;
+}
+.goat:hover {
+	background:linear-gradient(to bottom, #0859fa 5%, #2dabf9 100%);
+	background-color:#0859fa;
+}
+.goat:active {
+	position:relative;
+	top:1px;
+}
+
+        .title{
+  color: red;
+  font-family: 'Trebuchet MS', sans-serif; 
+}
+
+.title-large {
+  font-size: 2rem;
+}
+
+.title-small {
+  font-size: .5rem;
+}
+#morecontent {
+  background-color: yellow;
+}
