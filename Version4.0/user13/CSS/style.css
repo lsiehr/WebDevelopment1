@@ -159,3 +159,15 @@ h1, h2, h3, h4, h5, h6{
 #morecontent {
   background-color: yellow;
 }
+
+#morecontent {x1
+  background-color: yellow;
+}
+<table id="hireButtons">
+
+<table id="footerTable">
+
+*{
+    text-align:right;
+    border: 2px solid black;
+}
